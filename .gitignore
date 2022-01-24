@@ -1,0 +1,6 @@
+*.java
+*.exe
+*.sh
+.classpath
+.settings
+node_modules
